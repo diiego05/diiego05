@@ -1,4 +1,4 @@
-# Xin chào, mình là Di! 👋
+# Privet, Lâm Văn Dỉ! 👋
 
 Sinh viên yêu thích Lập trình Web và Backend với Java/Spring. Mình ưu tiên mã nguồn sạch, dễ đọc, dễ bảo trì, và luôn cố gắng hoàn thiện trải nghiệm người dùng.
 
