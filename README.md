@@ -1,6 +1,6 @@
 # Privet
 
-Sinh viên yêu thích Lập trình Web và Backend với Java/Spring. Mình ưu tiên mã nguồn sạch, dễ đọc, dễ bảo trì, và luôn cố gắng hoàn thiện trải nghiệm người dùng.
+Sinh viên yêu thích Lập trình Fullstack. Mình ưu tiên mã nguồn sạch, dễ đọc, dễ bảo trì, và luôn cố gắng hoàn thiện trải nghiệm người dùng.
 
 ![Profile views](https://komarev.com/ghpvc/?username=diiego05&style=flat&color=brightgreen)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
