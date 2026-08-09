@@ -16,11 +16,14 @@ Sinh viên yêu thích Lập trình Web và Backend với Java/Spring. Mình ưu
 
 
 ## Ngăn xếp kỹ năng
-- Ngôn ngữ: Java, JavaScript
-- Backend: Spring Boot (Web, Data JPA, Validation)
-- Frontend: HTML5, CSS3, JS (cơ bản)
-- CSDL: H2/MySQL/PostgreSQL (cấu hình linh hoạt)
-- Công cụ: Git/GitHub, Docker, IntelliJ IDEA/Eclipse/STS
+- Languages: JavaScript, TypeScript, SQL, NoSQL, HTML&CSS.
+- Frameworks: Node.js, React.js, Express.js, Tailwind CSS, HTML5&CSS3.
+- Core Concepts: RESTful APIs, MVC, SOLID, Design Patterns, JWT/OAuth2.
+- Database: MySQL, MongoDB, SQL Server, PostgreSQL, Redis.
+- Tools: Git, Postman, Docker, Swagger, n8n, Cloudinary, VNPay/SePay  Integration.
+- AI Tools: Claude, Antigravity, Cursor, ChatGPT, Copilot, Blackbox. 
+- Libraries & State Management: Redux Toolkit, React Context, Axios, TanStack Query, Mongoose, JWT.
+
 
 ---
 
